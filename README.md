@@ -1,6 +1,7 @@
 # Expense Tracker App
 ## Description
 The Expense Tracker app is a web application designed to help users manage their finances by tracking their income and expenses. Built using React, Next.js, and Bootstrap, the app provides a modern and responsive interface with server-side rendering for enhanced performance.
+![Expense Tracker App](https://raw.githubusercontent.com/kushalkumar-shaw/Expense-Tracker-App/main/public/landing%20page.png)
 
 ## Features
 - *Add Expenses and Income:* Easily add new expense and income entries with categorized details.
