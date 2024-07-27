@@ -5,7 +5,7 @@ The Expense Tracker app is a web application designed to help users manage their
 ![Expense Tracker App](https://raw.githubusercontent.com/kushalkumar-shaw/Expense-Tracker-App/main/public/landing%20page.png)
 
 ## Live Demo
-You can view the live application here: [Live Demo](https://kushalkumarshaw.vercel.app/)
+You can view the live application here: [Live Demo](https://ks-expense-tracker-app.vercel.app/)
 
 ## Features
 - *Add Expenses and Income:* Easily add new expense and income entries with categorized details.
